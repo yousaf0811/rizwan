@@ -1,6 +1,7 @@
 import "./App.css";
 import Box from "./components/box";
 import Box2 from "./components/box2";
+import Footer from "./components/footer";
 import Navbarh from "./components/navbar";
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
         <Box2/>
         <Box2/>
         <Box2/>
+        <Footer/>
       </div>
     </div>
   );

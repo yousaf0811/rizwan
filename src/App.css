@@ -116,3 +116,39 @@
   border: #144118 solid 1px;
   background-color: #ffffff;
 }
+.footer{
+  border: #144118 solid 2px;
+  width: 100%;
+  height: 700px;
+}
+.top{
+  border: #871718 solid 2px;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  background-color: #616161;
+}
+.topItem1{
+  border: red solid 2px;
+  height: 300px;
+  width: 50%;
+  padding: 20px;
+  color: #ffffff;
+  text-align: left;
+}
+.topItem2{
+  border: red solid 2px;
+  height: 300px;
+  width: 50%;
+}
+.middle{
+  border: #371018 solid 2px;
+  width: 100%;
+  height: 300px;
+}
+.bottom{
+  border: #871790 solid 2px;
+  width: 100%;
+  height: 100px;
+}
